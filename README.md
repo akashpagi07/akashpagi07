@@ -43,6 +43,9 @@
     <td>
       <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
       <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+      <a href="https://streamlit.io/">
+        <img width="45" height="45" src="https://raw.githubusercontent.com/akashpagi07/akashpagi07/c525b414849d2d0286e976cb63c2add10a026575/Streamlit.svg" alt="Streamlit" />
+      </a>
     </td>
     <td>
       <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
@@ -51,6 +54,9 @@
       <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>
       <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a>
       <a href="https://www.sublimetext.com/"><img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" /></a>
+        <a href="https://jupyter.org/">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/akashpagi07/akashpagi07/c525b414849d2d0286e976cb63c2add10a026575/logos/Jupyter.svg" alt="Jupyter"/>
+      </a>
     </td>
     <td>
       <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
@@ -59,6 +65,36 @@
     </td>
   </tr>
 </table>
+
+
+<hr/>
+
+<h3 align="center">📊 Data Manipulation & Analysis and Data Visualization 📈</h3>
+<table align="center" cellpadding="10" cellspacing="0">
+  <tr>
+    <th>Data Manipulation & Analysis</th>
+    <th>Data Visualization</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://numpy.org/">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/akashpagi07/akashpagi07/c525b414849d2d0286e976cb63c2add10a026575/logos/Numpy-Dark.svg" alt="NumPy" />
+      </a>
+      <a href="https://pandas.pydata.org/">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/akashpagi07/akashpagi07/c525b414849d2d0286e976cb63c2add10a026575/logos/Pandas-Light.svg" alt="Pandas" />
+      </a>
+    </td>
+    <td align="center">
+        <a href="https://plotly.com/python/">
+        <img width="47" height="47" src="https://github.com/akashpagi07/akashpagi07/blob/c525b414849d2d0286e976cb63c2add10a026575/logos/Ploty.svg" alt="Plotly" />
+      </a>
+        <a href="https://plotly.com/python/">
+        <img width="48" height="48" src="https://github.com/akashpagi07/akashpagi07/blob/c525b414849d2d0286e976cb63c2add10a026575/logos/Matplotlib.svg" alt="Plotly" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 <hr/>
