@@ -11,8 +11,6 @@
   <a href="https://www.linkedin.com/in/akashpagi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-<!--   <!-- Uncomment the following block if you want to use Gmail link -->
-  <!-- -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pagiakash188@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
@@ -23,16 +21,14 @@
     <h3>About Me!</h3>
     <p>✌️ Dedicated to exploring IT innovations and empowering others through knowledge ✌️</p>
 </div>
-<!-- About Section -->
 
-<h3 align="center">🌟Languages-Frameworks-Database-Tools-Deployment🌟</h3>
+<!-- Skills Section -->
+<h3 align="center">🌟Languages, Frameworks, Databases 🌟</h3>
 <table align="center" cellpadding="10" cellspacing="0">
   <tr>
     <th>Languages</th>
     <th>Frameworks</th>
     <th>Database</th>
-    <th>Tools</th>
-    <th>Deployment</th>
   </tr>
   <tr>
     <td>
@@ -50,26 +46,10 @@
     <td>
       <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
     </td>
-    <td>
-      <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>
-      <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a>
-      <a href="https://www.sublimetext.com/"><img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" /></a>
-        <a href="https://jupyter.org/">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/akashpagi07/akashpagi07/c525b414849d2d0286e976cb63c2add10a026575/logos/Jupyter.svg" alt="Jupyter"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-      <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-    </td>
   </tr>
 </table>
 
-
-<hr/>
-
-<h3 align="center">📊 Data Manipulation & Analysis and Data Visualization 📈</h3>
+<h3 align="center">📊 Data Manipulation & Visualization 📈</h3>
 <table align="center" cellpadding="10" cellspacing="0">
   <tr>
     <th>Data Manipulation & Analysis</th>
@@ -85,12 +65,35 @@
       </a>
     </td>
     <td align="center">
-        <a href="https://plotly.com/python/">
+      <a href="https://plotly.com/python/">
         <img width="47" height="47" src="https://github.com/akashpagi07/akashpagi07/blob/c525b414849d2d0286e976cb63c2add10a026575/logos/Ploty.svg" alt="Plotly" />
       </a>
-        <a href="https://plotly.com/python/">
-        <img width="48" height="48" src="https://github.com/akashpagi07/akashpagi07/blob/c525b414849d2d0286e976cb63c2add10a026575/logos/Matplotlib.svg" alt="Plotly" />
+      <a href="https://matplotlib.org/">
+        <img width="48" height="48" src="https://github.com/akashpagi07/akashpagi07/blob/c525b414849d2d0286e976cb63c2add10a026575/logos/Matplotlib.svg" alt="Matplotlib" />
       </a>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">🌟Tools & Deployment🌟</h3>
+<table align="center" cellpadding="10" cellspacing="0">
+  <tr>
+    <th>Tools</th>
+    <th>Deployment</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>
+      <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a>
+      <a href="https://www.sublimetext.com/"><img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" /></a>
+      <a href="https://jupyter.org/">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/akashpagi07/akashpagi07/c525b414849d2d0286e976cb63c2add10a026575/logos/Jupyter.svg" alt="Jupyter"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+      <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
     </td>
   </tr>
 </table>
