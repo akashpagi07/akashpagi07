@@ -1,8 +1,41 @@
 
+
+<table width="100%" align="center">
+  <td>
+    <h3 align="left">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" />
+  </h3>
+    <h3><b>Aspiring Data Scientist</b></h3>
+    <a href="https://www.linkedin.com/in/akashpagi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pagiakash188@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+      <h3><b>About Me !</b></h3>
+    <p>Passionate about <b>data</b> & <b>continuously expanding</b> my skills in Python, machine learning, and data visualization to turn raw data into valuable knowledge that informs smarter decisions.</p>
+  
+  
+  </td>
+  <td>
+    <h3 align="left"><b>GitHub Stats</b></h3>
+  <p align="left">
+    <a href="https://github.com/akashpagi07">
+      <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpagi07&theme=radical&border=7F3FBF&background=0D1117" alt="Akash's GitHub streak"/>
+    </a>
+  </p>
+  <p align="left">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=akashpagi07&count_private=true&include_all_commits=true&theme=tokyonight" alt="Akash's stats" />
+  </p>
+  </td>
+</table>
+
+
 <!-- Intro -->
 <h3 align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" />
 </h3>
+
 
 <div align="left">
     <h3><b>Aspiring Data Scientist</b></h3>
@@ -23,51 +56,11 @@
     <p>✌️ Dedicated to exploring IT innovations and empowering others through knowledge ✌️</p>
 </div>
 
-
-<table>
-  <tr>
-    <!-- Left Column -->
-    <td valign="top" width="50%">
-
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=400&height=50&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" />
-
-      <h3><b>Aspiring Data Scientist</b></h3>
-
-      <p>
-        <a href="https://www.linkedin.com/in/akashpagi/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-        </a>
-        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pagiakash188@gmail.com" target="_blank">
-          <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-        </a>
-      </p>
-
-      <h3><b>About Me !</b></h3>
-      <p>✌️ Dedicated to exploring IT innovations and empowering others through knowledge ✌️</p>
-
-    </td>
-
-    <!-- Right Column -->
-    <td valign="top" width="50%">
-
-      <h3>GitHub Stats</h3>
-
-      <p align="center">
-        <a href="https://github.com/akashpagi07">
-          <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpagi07&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak" />
-        </a>
-      </p>
-
-      <p align="center">
-        <img height="160" src="https://github-readme-stats.vercel.app/api?username=akashpagi07&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
-        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashpagi07&layout=compact&theme=tokyonight" alt="Top Languages" />
-      </p>
-
-    </td>
-  </tr>
-</table>
-
-
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=akashpagi07&theme=transparent&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 
