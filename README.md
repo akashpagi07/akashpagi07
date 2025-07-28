@@ -1,13 +1,14 @@
+
 <!-- Intro -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" />
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" />
 </h3>
 
-<p align="center">
-  Aspiring Data Scientist  
-</p>
+<div align="left">
+    <h3><b>Aspiring Data Scientist</b></h3>
+</div>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/akashpagi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
@@ -17,10 +18,59 @@
 </p>
 
 <!-- About Section -->
-<div align="center">
-    <h3>About Me!</h3>
+<div align="left">
+     <h3><b>About Me !</b></h3>
     <p>✌️ Dedicated to exploring IT innovations and empowering others through knowledge ✌️</p>
 </div>
+
+
+<table>
+  <tr>
+    <!-- Left Column -->
+    <td valign="top" width="50%">
+
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=400&height=50&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" />
+
+      <h3><b>Aspiring Data Scientist</b></h3>
+
+      <p>
+        <a href="https://www.linkedin.com/in/akashpagi/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+        </a>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pagiakash188@gmail.com" target="_blank">
+          <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+        </a>
+      </p>
+
+      <h3><b>About Me !</b></h3>
+      <p>✌️ Dedicated to exploring IT innovations and empowering others through knowledge ✌️</p>
+
+    </td>
+
+    <!-- Right Column -->
+    <td valign="top" width="50%">
+
+      <h3>GitHub Stats</h3>
+
+      <p align="center">
+        <a href="https://github.com/akashpagi07">
+          <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpagi07&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak" />
+        </a>
+      </p>
+
+      <p align="center">
+        <img height="160" src="https://github-readme-stats.vercel.app/api?username=akashpagi07&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashpagi07&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </p>
+
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 <!-- Skills Section -->
 <h3 align="center">🌟Languages, Frameworks, Databases 🌟</h3>
