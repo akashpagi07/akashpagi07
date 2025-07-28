@@ -21,46 +21,29 @@
     <h3 align="left"><b>GitHub Stats</b></h3>
   <p align="left">
     <a href="https://github.com/akashpagi07">
-      <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpagi07&theme=radical&border=7F3FBF&background=0D1117" alt="Akash's GitHub streak"/>
+     <!-- <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpagi07&theme=radical&border=7F3FBF" alt="Akash's GitHub streak"/> -->
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=akashpagi07&theme=transparent&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      
     </a>
+    
   </p>
   <p align="left">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=akashpagi07&count_private=true&include_all_commits=true&theme=tokyonight" alt="Akash's stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=akashpagi07&count_private=true&include_all_commits=true" alt="Akash's stats" />
   </p>
   </td>
 </table>
 
-
-<!-- Intro -->
-<h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" />
-</h3>
-
-
-<div align="left">
-    <h3><b>Aspiring Data Scientist</b></h3>
-</div>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/akashpagi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pagiakash188@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-</p>
-
-<!-- About Section -->
-<div align="left">
-     <h3><b>About Me !</b></h3>
-    <p>✌️ Dedicated to exploring IT innovations and empowering others through knowledge ✌️</p>
-</div>
 
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=akashpagi07&theme=transparent&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=akashpagi07&theme=transparent&border_radius=4&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&border=D4C9C1F3&background=FEFFF9D2&
+    stroke=4692EB&sideNums=EB2581&ring=3D1252&fire=EB5454&currStreakNum=598CD2&currStreakLabel=8674CD&sideLabels=5D00FF&dates=2B0F0FDB" alt="GitHub Streak" />
+</a>
 
 
 
