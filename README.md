@@ -1,10 +1,13 @@
 
 
 <table width="100%" align="center">
-  <td>
+  <tr>
     <h3 align="left">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" />
+<!--       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=false&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" /> -->
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=30&duration=2000&pause=500&color=D73F81&background=FFF8CC00&multiline=true&width=785&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Akash+Pagi+!;Welcome+to+everyone+who+visits+my+GitHub+profile+!" alt="Typing SVG" /></a>
   </h3>
+</tr>
+   <td>
     <h3><b>Aspiring Data Scientist</b></h3>
     <a href="https://www.linkedin.com/in/akashpagi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -13,7 +16,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
       <h3><b>About Me !</b></h3>
-    <p>Passionate about <b>data</b> & <b>continuously expanding</b> my skills in Python, machine learning, and data visualization to turn raw data into valuable knowledge that informs smarter decisions.</p>
+    <p>Passionate about <b>data </b> & <b>continuously expanding </b> my skills in <b>Python</b>, <b>Machine Learning</b> and <b>Data visualization</b> 
+    <p> Turning raw data into valuable knowledge that informs smarter decisions.</p>
   
   
   </td>
@@ -23,8 +27,7 @@
     <a href="https://github.com/akashpagi07">
      <!-- <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpagi07&theme=radical&border=7F3FBF" alt="Akash's GitHub streak"/> -->
       <img src="https://github-readme-streak-stats.herokuapp.com?user=akashpagi07&theme=transparent&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-      
-    </a>
+  </a>
     
   </p>
   <p align="left">
@@ -59,6 +62,7 @@
   <tr>
     <td>
       <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JacaScript" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
     </td>
@@ -68,6 +72,7 @@
       <a href="https://streamlit.io/">
         <img width="45" height="45" src="https://raw.githubusercontent.com/akashpagi07/akashpagi07/c525b414849d2d0286e976cb63c2add10a026575/Streamlit.svg" alt="Streamlit" />
       </a>
+      <a href="https://selenium-python.readthedocs.io/"><img src="https://skillicons.dev/icons?i=selenium" alt="selenium" /></a>
     </td>
     <td>
       <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
