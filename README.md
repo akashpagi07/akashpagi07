@@ -1,26 +1,37 @@
 
-
 <table width="100%" align="center">
   <tr>
     <h3 align="left">
-<!--       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=false&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" /> -->
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=30&duration=2000&pause=500&color=D73F81&background=FFF8CC00&multiline=true&width=785&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Akash+Pagi+!;Welcome+to+everyone+who+visits+my+GitHub+profile+!" alt="Typing SVG" /></a>
+<!--    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=30&duration=2000&pause=500&color=D73F81&background=FFF8CC00&multiline=true&width=785&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Akash+Pagi+!;Welcome+to+everyone+who+visits+my+GitHub+profile+!" alt="Typing SVG" /></a> -->
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=2000&pause=500&color=45B9CB&background=FFF8CC00&multiline=true&width=435&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Akash+!;Welcome+to+my+GitHub+Profile+!+%F0%9F%9A%80" alt="Typing SVG" /></a>
   </h3>
 </tr>
-   <td>
-    <h3><b>Aspiring Data Scientist</b></h3>
-    <a href="https://www.linkedin.com/in/akashpagi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </table>
+  
+  <table width="100%" align="center">
+   <td valign="top">
+     
+  <h3 style="margin-bottom: 8px;"><b>Aspiring Data Scientist</b></h3>
+  
+  <a href="https://www.linkedin.com/in/akashpagi/" target="_blank" style="margin-right: 8px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="vertical-align: middle;" />
   </a>
+  
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pagiakash188@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="vertical-align: middle;" />
   </a>
-      <h3><b>About Me !</b></h3>
-    <p>Passionate about <b>data </b> & <b>continuously expanding </b> my skills in <b>Python</b>, <b>Machine Learning</b> and <b>Data visualization</b> 
-    <p> Turning raw data into valuable knowledge that informs smarter decisions.</p>
+
+  <h3 style="margin-top: 16px;"><b>About Me !</b></h3>
   
+  <p style="margin: 4px 0;">
+    Passionate about <b>data</b> & <b>continuously expanding</b> my skills in <b>Python</b>, <b>Machine Learning</b> and <b>Data Visualization</b>.
+  </p>
   
-  </td>
+  <p style="margin: 4px 0;">
+    Turning raw data into valuable knowledge that informs smarter decisions.
+  </p>
+</td>
+
   <td>
     <h3 align="left"><b>GitHub Stats</b></h3>
   <p align="left">
@@ -36,7 +47,7 @@
   </td>
 </table>
 
-
+<!-- 
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=akashpagi07&theme=transparent&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
@@ -47,7 +58,7 @@
   <img src="https://streak-stats.demolab.com?user=akashpagi07&theme=transparent&border_radius=4&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&border=D4C9C1F3&background=FEFFF9D2&
     stroke=4692EB&sideNums=EB2581&ring=3D1252&fire=EB5454&currStreakNum=598CD2&currStreakLabel=8674CD&sideLabels=5D00FF&dates=2B0F0FDB" alt="GitHub Streak" />
 </a>
-
+-->
 
 
 
@@ -70,7 +81,7 @@
       <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
       <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
       <a href="https://streamlit.io/">
-        <img width="45" height="45" src="https://raw.githubusercontent.com/akashpagi07/akashpagi07/c525b414849d2d0286e976cb63c2add10a026575/Streamlit.svg" alt="Streamlit" />
+        <img width="50" height="48" src="https://github.com/akashpagi07/akashpagi07/blob/e710a1305b17499587bb672e9b57764d1c96d460/logos/Streamlit-Dark.svg" alt="Streamlit" />
       </a>
       <a href="https://selenium-python.readthedocs.io/"><img src="https://skillicons.dev/icons?i=selenium" alt="selenium" /></a>
     </td>
@@ -92,7 +103,7 @@
         <img width="48" height="48" src="https://raw.githubusercontent.com/akashpagi07/akashpagi07/c525b414849d2d0286e976cb63c2add10a026575/logos/Numpy-Dark.svg" alt="NumPy" />
       </a>
       <a href="https://pandas.pydata.org/">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/akashpagi07/akashpagi07/c525b414849d2d0286e976cb63c2add10a026575/logos/Pandas-Light.svg" alt="Pandas" />
+        <img width="48" height="48" src="https://github.com/akashpagi07/akashpagi07/blob/e710a1305b17499587bb672e9b57764d1c96d460/logos/Pandas-Dark.svg" alt="Pandas" />
       </a>
     </td>
     <td align="center">
@@ -100,7 +111,7 @@
         <img width="47" height="47" src="https://github.com/akashpagi07/akashpagi07/blob/c525b414849d2d0286e976cb63c2add10a026575/logos/Ploty.svg" alt="Plotly" />
       </a>
       <a href="https://matplotlib.org/">
-        <img width="48" height="48" src="https://github.com/akashpagi07/akashpagi07/blob/c525b414849d2d0286e976cb63c2add10a026575/logos/Matplotlib.svg" alt="Matplotlib" />
+        <img width="48" height="48" src="https://github.com/akashpagi07/akashpagi07/blob/e710a1305b17499587bb672e9b57764d1c96d460/logos/Matplotlib-Dark.svg" alt="Matplotlib" />
       </a>
     </td>
   </tr>
