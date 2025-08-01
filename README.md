@@ -1,17 +1,15 @@
 
-<table width="100%" align="center">
-  <tr>
-    <h3 align="left">
-<!--    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=30&duration=2000&pause=500&color=D73F81&background=FFF8CC00&multiline=true&width=785&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Akash+Pagi+!;Welcome+to+everyone+who+visits+my+GitHub+profile+!" alt="Typing SVG" /></a> -->
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=2000&pause=500&color=45B9CB&background=FFF8CC00&multiline=true&width=435&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Akash+!;Welcome+to+my+GitHub+Profile+!+%F0%9F%9A%80" alt="Typing SVG" /></a>
-  </h3>
-</tr>
-  </table>
+<h3 align="left" style="margin-top: 0; margin-bottom: 0;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&duration=2000&pause=500&color=45B9CB&background=FFF8CC00&multiline=false&width=435&height=40&lines=Hi+there+%F0%9F%91%8B+I'm+Akash+!;Welcome+to+my+GitHub+Profile+!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</h3>
+
   
-  <table width="100%" align="center">
-   <td valign="top">
+  <table width="100%" align="center" style="margin-top: 0;">
+   <td valign="top" style="border: none;">
      
-  <h3 style="margin-bottom: 8px;"><b>Aspiring Data Scientist</b></h3>
+  <h3 style="margin-bottom: 0px;"><b>Aspiring Data Scientist</b></h3>
   
   <a href="https://www.linkedin.com/in/akashpagi/" target="_blank" style="margin-right: 8px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="vertical-align: middle;" />
@@ -21,9 +19,9 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="vertical-align: middle;" />
   </a>
 
-  <h3 style="margin-top: 16px;"><b>About Me !</b></h3>
+  <h3 style="margin-top: 0px;"><b>About Me !</b></h3>
   
-  <p style="margin: 4px 0;">
+  <p>
     Passionate about <b>data</b> & <b>continuously expanding</b> my skills in <b>Python</b>, <b>Machine Learning</b> and <b>Data Visualization</b>.
   </p>
   
